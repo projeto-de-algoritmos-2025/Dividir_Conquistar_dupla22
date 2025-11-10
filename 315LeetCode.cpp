@@ -32,4 +32,19 @@ public:
 
         return output;
     }
+
 };
+
+int main(){
+	vector<int> input = {5, 2, 6, 1};
+
+	Solution sol;
+	vector<int> output = sol.countSmaller(input);
+	
+	
+	for(auto v : output) {
+		cout << v << "\n";
+	}
+
+	return 0;
+}
