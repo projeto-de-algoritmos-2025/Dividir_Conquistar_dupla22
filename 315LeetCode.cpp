@@ -68,7 +68,7 @@ public:
         vector<Pair> pairs;
         pairs.reserve(n);
         for (int i = 0; i < n; ++i) {
-            pairs.push_back({nums[i], i});
+            pairs.emplace_back(nums[i], i);
         }
 
         mergeSort(pairs, 0, n - 1);
