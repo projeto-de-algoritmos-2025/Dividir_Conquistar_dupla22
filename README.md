@@ -40,7 +40,7 @@ Os três exercícios em questão são:
 ## Apresentação 
 
 <div align="center">
-<a href="https://youtu.be/C7pNroE1qIM"><img src="hhttps://cdn.pensador.com/img/frase/ju/li/julio_cesar_dividir_para_conquistar_l5oe9ep.jpg" width="50%"></a>
+<a href="https://youtu.be/C7pNroE1qIM"><img src="https://cdn.pensador.com/img/frase/ju/li/julio_cesar_dividir_para_conquistar_l5oe9ep.jpg" width="50%"></a>
 </div>
 
 [![Assista no YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/C7pNroE1qIM)
